@@ -1,4 +1,4 @@
-// 3B017128 陳右承 作業一
+// 3B017128 陳右承 作業一 0306
 // 作業倉庫
 // https://github.com/AmanoShizukikun/NCUT-1142-Java
 // 個人網站
