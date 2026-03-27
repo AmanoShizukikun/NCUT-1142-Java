@@ -13,6 +13,14 @@ Programming and Practice assignments for NCUT 1142.
 N/A
 
 ## Recent Changes
+### 2.2.0 (March 27, 2026)
+### Important Changes
+- N/A
+### New Features
+- [Added] 0327 assignments.
+### Known Issues
+- N/A
+
 ### 2.1.0 (March 20, 2026)
 ### Important Changes
 - N/A
@@ -29,13 +37,6 @@ N/A
 ### Known Issues
 - N/A
 
-### 1.0.1 (March 11, 2026)
-### Important Changes
-- Reorganized assignment content based on the lecture slides.
-### New Features
-- [Added] Assignment 3.
-### Known Issues
-- N/A
 
 [All Releases](https://github.com/AmanoShizukikun/NCUT-1142-Java/blob/main/assets/docs/Changelog.md)
 
