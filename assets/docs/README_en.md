@@ -13,6 +13,14 @@ Programming and Practice assignments for NCUT 1142.
 N/A
 
 ## Recent Changes
+### 2.4.0 (April 23, 2026)
+### Important Changes
+- N/A
+### New Features
+- [Added] 0417 assignments.
+### Known Issues
+- N/A
+
 ### 2.3.0 (April 16, 2026)
 ### Important Changes
 - N/A
@@ -26,14 +34,6 @@ N/A
 - N/A
 ### New Features
 - [Added] 0327 assignments.
-### Known Issues
-- N/A
-
-### 2.1.0 (March 20, 2026)
-### Important Changes
-- N/A
-### New Features
-- [Added] 0320 assignments.
 ### Known Issues
 - N/A
 
